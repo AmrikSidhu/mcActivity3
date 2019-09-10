@@ -45,8 +45,6 @@ public class emptyData {
 		button.click();
 		Thread.sleep(20000);
 		driver.close();
-		
-		
 	
 	}
 
