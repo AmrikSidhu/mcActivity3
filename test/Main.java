@@ -50,7 +50,6 @@ public class Main {
 	System.out.println("title=  " +title);
 	assertEquals("Subscribe to My McD’s®",title);
 		
-
 	}
 	
 	
