@@ -1,5 +1,5 @@
 # mcActivity3
-## Test Caese ##
+## Test Case ##
 - ***TC1*** 
 > getting Title
 - ***TC2***
